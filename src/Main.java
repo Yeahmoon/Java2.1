@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        int Price = 19;
-        int MinMilesLimit = 20;
-        int TotalAmount = Price/MinMilesLimit;
+        int price = 19;
+        int minMilesLimit = 20;
+        int totalAmount = price / minMilesLimit;
 
-        System.out.println(TotalAmount);
+        System.out.println(totalAmount);
 
     }
 }
